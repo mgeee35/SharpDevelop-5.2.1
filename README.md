@@ -1,4 +1,4 @@
-# SharpDevelop-5.2.1
+# SharpDevelop-5.2.1 (Alternate of Visual Studio)
 
 No need installation.
 
